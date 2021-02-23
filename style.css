@@ -1,0 +1,23 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 250px;
+    background-color: yellow;
+    width: 200px;
+    height: 100%;
+    color: black;
+    font-family: 'Exo 2', sans-serif;
+    padding: 20px;
+    overflow-y: scroll;
+  }
+  
+  section {
+    margin-left: 300px;
+  }
